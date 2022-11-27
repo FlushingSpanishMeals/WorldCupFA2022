@@ -1,0 +1,108 @@
+.hero-menu {
+    background-image: url('images/image-p-09.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    height: 60vh;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-bottom: 20px;
+    z-index: -2;
+}
+
+.hero-menu::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+section {
+    padding: 2rem 9%;
+}
+
+.heading {
+    text-align: center;
+    font-size: small;
+    padding: 1rem;
+    color: black;
+}
+
+
+.foodmenu .box-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+
+}
+
+.foodmenu .box-container .box {
+    border: 1px solid #e6e6e6;
+    flex: 1 1 30rem;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: .5rem;
+    height: 40vh;
+    width: 20vw;
+
+}
+
+
+.foodmenu .box-container .box .image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: -100%;
+    left: 0;
+}
+
+
+.foodmenu .box-container .box .content {
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    padding-top: 350px;
+}
+
+.foodmenu .box-container .box h3 {
+    font-weight: 600;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    margin-bottom: 17px;
+    text-transform: capitalize;
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.foodmenu .box-container .box .content p {
+    font-size: 18px;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.foodmenu .box-container .box:hover .content {
+    transform: translateY(-60%);
+    padding-top: -200px;
+    top: 0;
+    transition: 0.6s;
+
+}
+
+/* .foodmenu .box-container .box:hover .content {
+    transform: translateY(100%);
+    padding-top: 200px;
+} */
