@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 /* Main CSS NAV */
 * {
@@ -10,9 +10,10 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: #222;
-    background-color: #ecf0fe;
+    background-color: #f9fafb;
     position: relative;
     margin: 0;
+    
 }
 
 .container {
