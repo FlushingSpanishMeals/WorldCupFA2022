@@ -1,0 +1,164 @@
+
+.carousel{
+    margin: 0 auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3) ;
+    height: auto;
+    width: auto;
+    overflow: hidden;
+    border-radius: 8px;
+    
+}
+.image-container{
+    display: flex;
+    transform: translateX(0);
+    transition: transform .5s ease-in-out;
+}
+
+.carousel img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+.btn {
+    background-color: rgb(160, 151, 168) ;
+    color: aliceblue;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 49%;
+}
+.btn:hover {
+    opacity: 0.6;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+
+.box-container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+
+h1 {
+    text-align: left;
+    color: whitesmoke;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 8px;
+}
+
+
+.box {
+    background-color: rgb(241, 237, 237);
+    padding: 12px 10%;
+    margin: 32px 25%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3) ;
+}
+
+
+#container-img {
+    max-width: 50%;
+    max-height: auto;
+    border-radius: 100px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3) ;
+    filter: blur(5px);
+}
+
+#container-img:hover, .text {
+    transition: 2s ease;
+    filter: blur(0px);
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+.text {
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  position: relative;
+  top: 20%;
+  left: 10%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  filter: blur(0px);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+
+/* services-preview */
+/* .services-preview{
+    background-color: #474e5d;
+    background-size: cover;
+    background-position: center;
+    display:grid;
+}
+
+.services-row{
+    margin: initial !important;
+    
+}
+
+.learn-more{
+    max-width: 500px;
+    margin-top: 80px;
+    padding: 60px;
+    background: #8d5c5c;
+    margin-bottom: 20px;
+}
+
+.learn-more a{
+    width: 100px;
+    display: block;
+    color: #fff !important;
+    background: #000;
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+}
+
+.services-preview img{
+    width: 600px; 
+    height: 400px;
+    margin: 100px;
+    margin-top: 150px;
+}
+ */
+
+
+
