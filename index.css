@@ -1,3 +1,4 @@
+
 .carousel {
     margin-right: 5%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
@@ -25,6 +26,45 @@
     justify-content: space-between;
 
 }
+
+
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar-brand img {
+    height: 40px;
+    padding-left: 30px;
+
+}
+
+.image-container {
+    display: flex;
+    transform: translateX(0);
+    transition: transform .5s ease-in-out;
+}
+
+.carousel img {
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
 
 .btn {
     background-color: rgb(160, 151, 168);
@@ -63,6 +103,7 @@ h2 {
     font-size: 36px;
     font-weight: 600;
 }
+
 
 .hero p {
     text-align: left;
@@ -121,4 +162,84 @@ h2 {
     max-height: auto;
     border-radius: 100px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
+.signing-form {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: #3a3a3a;
+}
+
+
+
+#main-holder {
+    width: 50%;
+    height: 70%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px 2px black;
+}
+
+#login-error-msg-holder {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+#login-error-msg {
+    width: 23%;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #8a0000;
+    border: 1px solid #8a0000;
+    background-color: #e58f8f;
+    opacity: 0;
+}
+
+#error-msg-second-line {
+    display: block;
+}
+
+#login-form {
+    align-self: flex-start;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.login-form-field::placeholder {
+    color: #3a3a3a;
+}
+
+.login-form-field {
+    border: none;
+    border-bottom: 1px solid #3a3a3a;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    outline: none;
+    padding: 0px 0px 5px 5px;
+}
+
+#login-form-submit {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: #3a3a3a;
+    cursor: pointer;
+    outline: none;
+
 }
