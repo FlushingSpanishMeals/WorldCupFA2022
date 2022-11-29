@@ -1,29 +1,30 @@
-const { response } = require('express');
 const express = require('express');
+const path = require('path');
+
 
 const app = express();
 
 const port = 3000;
 
 //Middleware 
-// app.use(express.static(path.join(__dirname, '.')));
+app.use(express.static(path.join(__dirname, 'css')));
 
 
 app.get('/', (request, response)=>{
-    response.sendFile(path.join(__dirname, '.index.html'));
+    response.sendFile(path.join(__dirname, './index.html'));
 });
 
-// app.get('/about', (request, response)=>{
-//     response.sendFile(path.join(__dirname, './WorldCupFA2022/about.html'));
-// });
+app.get('/about', (request, response)=>{
+    response.sendFile(path.join(__dirname, './about.html'));
+});
 
-// app.get('/matches', (request, response)=>{
-//     response.sendFile(path.join(__dirname, './WorldCupFA2022/matches.html'));
-// });
+app.get('/matches', (request, response)=>{
+    response.sendFile(path.join(__dirname, './matches.html'));
+});
 
-// app.get('/signup', (request, response)=>{
-//     response.sendFile(path.join(__dirname, './WorldCupFA2022/signup.html'));
-// });
+app.get('/signup', (request, response)=>{
+    response.sendFile(path.join(__dirname, './signup.html'));
+});
 
 
 app.listen(port, () =>{
