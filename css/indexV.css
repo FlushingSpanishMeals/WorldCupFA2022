@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
 .carousel {
     margin-right: 5%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
@@ -23,15 +30,9 @@
 .buttons-container {
     display: flex;
     justify-content: space-between;
-
 }
 
-* {
-    margin: 0;
-    padding: 0;
 
-
-}
 
 #nav-bar {
     position: sticky;
@@ -159,7 +160,7 @@ h2 {
     max-height: auto;
     border-radius: 100px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-
+}
 .signing-form {
     height: 100%;
     margin: 0;
@@ -169,8 +170,6 @@ h2 {
     align-items: center;
     background-color: #3a3a3a;
 }
-
-
 
 #main-holder {
     width: 50%;

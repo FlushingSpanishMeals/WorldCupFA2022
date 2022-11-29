@@ -23,7 +23,7 @@ body {
 
 .nav {
     position: fixed;
-    background-color: #222;
+    background-color: #fff;
     top: 0;
     left: 0;
     right: 0;
@@ -49,7 +49,7 @@ body {
 
 
 .nav a {
-    color: #fff;
+    color: #222;
     text-decoration: none;
     padding: 7px 15px;
     transition: all 0.3s ease-in-out;
@@ -169,7 +169,7 @@ input[type=submit]:hover{
 
 /* Hero CSS */
 .hero {
-    background-image: url('images/image-p-03.jpg');
+    background-image: url('https://slidescorner.com/wp-content/uploads/2022/10/01-FIFA-World-Cup-Qatar-2022-PPT-Background-2-by-SlidesCorner-1024x576.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -198,7 +198,7 @@ input[type=submit]:hover{
 }
 
 .hero h1 {
-    font-size: 46px;
+    font-size: 70px;
     margin: -20px 0 20px;
 }
 
