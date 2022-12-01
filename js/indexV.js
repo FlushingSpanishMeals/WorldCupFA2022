@@ -4,6 +4,22 @@ const rightBtn = document.getElementById('right')
 
 const img = document.querySelectorAll('#imgs img')
 
+const textEl = document.getElementById('text')
+const text = `It's better than a FIFA game!`
+let idxC = 1
+let speed = 200
+
+writeText()
+
+function writeText() {
+    textEl.innerText = text.slice(0, idxC)
+    idxC++
+    if (idxC > text.length) {
+        idxC = 1
+    }
+    setTimeout(writeText, speed)
+}
+
 let idx = 0
 
 let interval = setInterval(run, 2000)
