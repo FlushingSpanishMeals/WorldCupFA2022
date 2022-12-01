@@ -1,6 +1,5 @@
 async function fetchMatch() {
     let match_by_date = document.querySelector('#match-date');
-    // let match_by_group = document.querySelector('#match-group');
     let data = await fetch('matches.json');
     let response = await data.json();
     let all_match = [];
@@ -67,24 +66,5 @@ async function fetchMatch() {
         all_match.push(Match);
         randerDom(Match, match_by_date);
     }
-
-    // function fBg(group) {
-    //     return all_match.filter((g) => {
-    //         return g.group.includes(group);
-    //     });
-    // }
-    // let filter_by_group = [
-    //     ...fBg('Group A'),
-    //     ...fBg('Group B'),
-    //     ...fBg('Group C'),
-    //     ...fBg('Group D'),
-    //     ...fBg('Group E'),
-    //     ...fBg('Group F'),
-    //     ...fBg('Group G'),
-    //     ...fBg('Group H'),
-    // ];
-    // for (let j = 0; j < filter_by_group.length; j++) {
-    //     randerDom(filter_by_group[j], match_by_group);
-    // }
 }
 fetchMatch();
