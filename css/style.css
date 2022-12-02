@@ -342,3 +342,13 @@ input[type=submit]:hover{
     width: 700px;
     height: 200;
 }
+
+.nav{
+    height: 8.7%;
+}
+
+.nav img{
+    width: 34%;
+    height: auto;
+    
+}
