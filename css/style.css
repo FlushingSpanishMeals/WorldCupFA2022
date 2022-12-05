@@ -76,7 +76,7 @@ body {
 }
 
 .nav-logo {
-    width: 40%;
+    width: 30%;
 
 }
 
@@ -221,6 +221,35 @@ input[type=submit]:hover {
     letter-spacing: 1px;
 }
 
+.hero-squad {
+    background-image: url("https://digitalhub.fifa.com/transform/e004a86b-a86d-49fe-bff1-787168a5b8e7/FIFAPLUS_2022TICKET_BANNER_ENGLISH-1?io=transform:fill,aspectratio:16x10&quality=75") ;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;    
+    height: 110vh;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-bottom: 20px;
+    z-index: -2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Content */
 .content h2,
 .content h3 {
@@ -362,7 +391,7 @@ input[type=submit]:hover {
 }
 
 .nav img {
-    width: 34%;
+    width: 33%;
     height: auto;
 
 }
