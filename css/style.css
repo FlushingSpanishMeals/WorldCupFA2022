@@ -455,15 +455,6 @@ input[type=submit]:hover {
     }
 }
 
-/* 
-#rcorners1 {
-    border-radius: 25px;
-    border: 2px solid lightblue;
-    padding: 20px;
-    width: 700px;
-    height: 200;
-}
-
 .nav {
     height: 8.7%;
 }
@@ -473,6 +464,18 @@ input[type=submit]:hover {
     height: auto;
 
 }
+
+#rcorners1 {
+    border-radius: 25px;
+    border: 2px solid lightblue;
+    padding: 20px;
+    width: 700px;
+    height: 200;
+}
+
+
+/* 
+
 
 .footer .top .sponsors h4 {
     text-align: center;
