@@ -1,4 +1,4 @@
-#whitepaper
+# whitepaper
 
 1. Write a white paper outlining the following concepts and answer the following questions:
 
@@ -60,4 +60,11 @@ The unique thing about our website is the uniqueness of the each squad.
 
 o. Once people have achieved the goal that they sent them to your site, are there common questions people ask about this subject area:
 
-No, unless there is a technical problem that needs resolving. 
+No, unless there is a technical problem that needs resolving.
+
+## Code Features:
+
+1. Created a python script called Search that would take a config file containing the api token and secret to then access the twitter api using a tweepy library that could set the query hashtag and set specific parameters to determine what would be returned in the response. The data would be taken and would be appended to a an array that was inserted into a csv file, after the csv file would be converted into an html webpage using the pandas library. The output html script was then inserted into the webpage using an iframe. Relearning python was definitely a issue that had to be dealt with then it able to get the twitter calls to print out but I had to figure out to append that to an array as the direct json file was unable to be serialized into an array. After the CSV file was created the information could not be inserted directly, though the pandas was useful to convert.
+2. Another implementation is the node module installation with the particle js system which just needed to run the script on the webpage with the demo implemented. The issues with this would have to be that it would not be shown on the screen so the webpage had to be recreated so it would populate the screen, which took a lot of trial and error in reworking the css, also the demo script was not showing up at one point which was strange, but it appeared that on the npm installation particles.js and particlejs are two seperate libraries so I had to install the other library and uninstall the 1st library.
+
+
