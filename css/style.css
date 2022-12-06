@@ -78,7 +78,6 @@ body {
 
 .nav-logo {
     width: 30%;
-
 }
 
 /*Signin form*/
@@ -456,9 +455,12 @@ body {
     text-align: center;
     z-index: 100;
 }
-.container {
+.container-particles {
     border-color: #fff;
-    height: 40%;
+    height: 50%;
+    max-width: 1200px;
+    max-height: 80%;
+    margin: 0 auto;
 }
 
 iframe {
