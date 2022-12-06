@@ -85,8 +85,8 @@
         "HomeTeam": "Mexico",
         "AwayTeam": "Poland",
         "flag": [
-            "https://world-cup.codsfli.com/flag/MEX.png",
-            "https://world-cup.codsfli.com/flag/POL.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png"
         ],
         "Group": "Group C"
     },
@@ -98,8 +98,8 @@
         "HomeTeam": "France",
         "AwayTeam": "Australia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/FRA.png",
-            "https://world-cup.codsfli.com/flag/AUS.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png"
         ],
         "Group": "Group D"
     },
@@ -111,8 +111,8 @@
         "HomeTeam": "Morocco",
         "AwayTeam": "Croatia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/MAR.png",
-            "https://world-cup.codsfli.com/flag/CRO.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png"
         ],
         "Group": "Group F"
     },
@@ -124,8 +124,8 @@
         "HomeTeam": "Germany",
         "AwayTeam": "Japan",
         "flag": [
-            "https://world-cup.codsfli.com/flag/GER.png",
-            "https://world-cup.codsfli.com/flag/JPN.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png"
         ],
         "Group": "Group E"
     },
@@ -137,8 +137,8 @@
         "HomeTeam": "Spain",
         "AwayTeam": "Costa Rica",
         "flag": [
-            "https://world-cup.codsfli.com/flag/ESP.png",
-            "https://world-cup.codsfli.com/flag/CRC.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png"
         ],
         "Group": "Group E"
     },
@@ -150,8 +150,8 @@
         "HomeTeam": "Belgium",
         "AwayTeam": "Canada",
         "flag": [
-            "https://world-cup.codsfli.com/flag/BEL.png",
-            "https://world-cup.codsfli.com/flag/CAN.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png"
         ],
         "Group": "Group F"
     },
@@ -163,8 +163,8 @@
         "HomeTeam": "Switzerland",
         "AwayTeam": "Cameroon",
         "flag": [
-            "https://world-cup.codsfli.com/flag/SUI.png",
-            "https://world-cup.codsfli.com/flag/CMR.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png"
         ],
         "Group": "Group G"
     },
@@ -176,8 +176,8 @@
         "HomeTeam": "Uruguay",
         "AwayTeam": "Korea Republic",
         "flag": [
-            "https://world-cup.codsfli.com/flag/URU.png",
-            "https://world-cup.codsfli.com/flag/KOR.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png"
         ],
         "Group": "Group H"
     },
@@ -189,8 +189,8 @@
         "HomeTeam": "Portugal",
         "AwayTeam": "Ghana",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POR.png",
-            "https://world-cup.codsfli.com/flag/GHA.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png"
         ],
         "Group": "Group H"
     },
@@ -202,8 +202,8 @@
         "HomeTeam": "Brazil",
         "AwayTeam": "Serbia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/BRA.png",
-            "https://world-cup.codsfli.com/flag/SRB.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png"
         ],
         "Group": "Group G"
     },
@@ -268,7 +268,7 @@
         "AwayTeam": "Australia",
         "flag": [
             "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-            "https://world-cup.codsfli.com/flag/AUS.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png"
         ],
         "Group": "Group D"
     },
@@ -280,7 +280,7 @@
         "HomeTeam": "Poland",
         "AwayTeam": "Saudi Arabia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POL.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png",
             "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png"
         ],
         "Group": "Group C"
@@ -293,7 +293,7 @@
         "HomeTeam": "France",
         "AwayTeam": "Denmark",
         "flag": [
-            "https://world-cup.codsfli.com/flag/FRA.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
             "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png"
         ],
         "Group": "Group D"
@@ -307,7 +307,7 @@
         "AwayTeam": "Mexico",
         "flag": [
             "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-            "https://world-cup.codsfli.com/flag/MEX.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png"
         ],
         "Group": "Group C"
     },
@@ -319,8 +319,8 @@
         "HomeTeam": "Japan",
         "AwayTeam": "Costa Rica",
         "flag": [
-            "https://world-cup.codsfli.com/flag/JPN.png",
-            "https://world-cup.codsfli.com/flag/CRC.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png"
         ],
         "Group": "Group E"
     },
@@ -332,8 +332,8 @@
         "HomeTeam": "Belgium",
         "AwayTeam": "Morocco",
         "flag": [
-            "https://world-cup.codsfli.com/flag/BEL.png",
-            "https://world-cup.codsfli.com/flag/MAR.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png"
         ],
         "Group": "Group F"
     },
@@ -345,8 +345,8 @@
         "HomeTeam": "Croatia",
         "AwayTeam": "Canada",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CRO.png",
-            "https://world-cup.codsfli.com/flag/CAN.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png"
         ],
         "Group": "Group F"
     },
@@ -358,8 +358,8 @@
         "HomeTeam": "Spain",
         "AwayTeam": "Germany",
         "flag": [
-            "https://world-cup.codsfli.com/flag/ESP.png",
-            "https://world-cup.codsfli.com/flag/GER.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png"
         ],
         "Group": "Group E"
     },
@@ -371,8 +371,8 @@
         "HomeTeam": "Cameroon",
         "AwayTeam": "Serbia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CMR.png",
-            "https://world-cup.codsfli.com/flag/SRB.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png"
         ],
         "Group": "Group G"
     },
@@ -384,8 +384,8 @@
         "HomeTeam": "Korea Republic",
         "AwayTeam": "Ghana",
         "flag": [
-            "https://world-cup.codsfli.com/flag/KOR.png",
-            "https://world-cup.codsfli.com/flag/GHA.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png"
         ],
         "Group": "Group H"
     },
@@ -397,8 +397,8 @@
         "HomeTeam": "Brazil",
         "AwayTeam": "Switzerland",
         "flag": [
-            "https://world-cup.codsfli.com/flag/BRA.png",
-            "https://world-cup.codsfli.com/flag/SUI.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png"
         ],
         "Group": "Group G"
     },
@@ -410,8 +410,8 @@
         "HomeTeam": "Portugal",
         "AwayTeam": "Uruguay",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POR.png",
-            "https://world-cup.codsfli.com/flag/URU.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png"
         ],
         "Group": "Group H"
     },
@@ -449,8 +449,8 @@
         "HomeTeam": "Wales",
         "AwayTeam": "England",
         "flag": [
-            "hhttps://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
-            "https://world-cup.codsfli.com/flag/ENG.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png"
         ],
         "Group": "Group B"
     },
@@ -475,7 +475,7 @@
         "HomeTeam": "Australia",
         "AwayTeam": "Denmark",
         "flag": [
-            "https://world-cup.codsfli.com/flag/AUS.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
             "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png"
         ],
         "Group": "Group D"
@@ -489,7 +489,7 @@
         "AwayTeam": "France",
         "flag": [
             "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-            "https://world-cup.codsfli.com/flag/FRA.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png"
         ],
         "Group": "Group D"
     },
@@ -501,7 +501,7 @@
         "HomeTeam": "Poland",
         "AwayTeam": "Argentina",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POL.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png",
             "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png"
         ],
         "Group": "Group C"
@@ -515,7 +515,7 @@
         "AwayTeam": "Mexico",
         "flag": [
             "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png",
-            "https://world-cup.codsfli.com/flag/MEX.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png"
         ],
         "Group": "Group C"
     },
@@ -527,8 +527,8 @@
         "HomeTeam": "Croatia",
         "AwayTeam": "Belgium",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CRO.png",
-            "https://world-cup.codsfli.com/flag/BEL.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png"
         ],
         "Group": "Group F"
     },
@@ -540,8 +540,8 @@
         "HomeTeam": "Canada",
         "AwayTeam": "Morocco",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CAN.png",
-            "https://world-cup.codsfli.com/flag/MAR.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png"
         ],
         "Group": "Group F"
     },
@@ -553,8 +553,8 @@
         "HomeTeam": "Japan",
         "AwayTeam": "Spain",
         "flag": [
-            "https://world-cup.codsfli.com/flag/JPN.png",
-            "https://world-cup.codsfli.com/flag/ESP.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png"
         ],
         "Group": "Group E"
     },
@@ -566,8 +566,8 @@
         "HomeTeam": "Costa Rica",
         "AwayTeam": "Germany",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CRC.png",
-            "https://world-cup.codsfli.com/flag/GER.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png"
         ],
         "Group": "Group E"
     },
@@ -579,8 +579,8 @@
         "HomeTeam": "Ghana",
         "AwayTeam": "Uruguay",
         "flag": [
-            "https://world-cup.codsfli.com/flag/GHA.png",
-            "https://world-cup.codsfli.com/flag/URU.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png"
         ],
         "Group": "Group H"
     },
@@ -592,8 +592,8 @@
         "HomeTeam": "Korea Republic",
         "AwayTeam": "Portugal",
         "flag": [
-            "https://world-cup.codsfli.com/flag/KOR.png",
-            "https://world-cup.codsfli.com/flag/POR.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png"
         ],
         "Group": "Group H"
     },
@@ -605,8 +605,8 @@
         "HomeTeam": "Serbia",
         "AwayTeam": "Switzerland",
         "flag": [
-            "https://world-cup.codsfli.com/flag/SRB.png",
-            "https://world-cup.codsfli.com/flag/SUI.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png"
         ],
         "Group": "Group G"
     },
@@ -618,8 +618,8 @@
         "HomeTeam": "Cameroon",
         "AwayTeam": "Brazil",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CMR.png",
-            "https://world-cup.codsfli.com/flag/BRA.png"
+            "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png",
+            "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png"
         ],
         "Group": "Group G"
     }
